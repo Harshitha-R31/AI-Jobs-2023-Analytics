@@ -1,3 +1,0 @@
-from utils.data_loader import load_data
-
-df = load_data("data/AI_Impact_on_Jobs_2030.csv")
